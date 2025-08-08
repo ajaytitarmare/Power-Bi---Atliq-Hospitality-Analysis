@@ -59,5 +59,3 @@ The dashboard includes **filters by hotel location, date range, and customer typ
 * **Power BI** – Dashboard creation and visualization
 * **Excel / CSV** – Data source
 * **DAX** – For calculated measures in Power BI
-
-If you like, I can also prepare a **matching short GitHub repository description** and **SEO-friendly tags** so your repo is easier to find. That way, when someone searches for hospitality dashboards or hotel analytics, yours will appear higher.
